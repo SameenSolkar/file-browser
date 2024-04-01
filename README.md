@@ -4,7 +4,7 @@ Making a file browser in React js.
 
 ## Check/Try app here.
 
-(https://react-file-browser.web.app/home)
+https://react-file-browser.web.app/home
 
 ## Available Scripts.
 
